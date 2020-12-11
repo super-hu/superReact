@@ -202,7 +202,7 @@ i=0,child 的子级就是具体某一个 react 元素，继续执行 mapIntoArra
 
 ### 流程图
 
-![image](img/childrenmap.png)
+![image](/img/childrenmap.png)
 
 ---
 
